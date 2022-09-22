@@ -28,9 +28,9 @@ If you already have one of the scripts, you can easily disable it in the config.
 
 
 # :gear:  How to install
-Add the **stn_rpcore** folder to your FiveM resources directory.\
-Edit your server.cfg and add "ensure **RPCore** "\
-Edit config.lua to be customized for your server.
+Add the `**stn_rpcoreV2**` folder to your FiveM resources directory.\
+Edit your `server.cfg` and add `"ensure `**stn_rpcoreV2**` "`\
+Edit `config.lua` to be customized for your server.
 
 
 
